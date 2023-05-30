@@ -1,0 +1,23 @@
+/* styles.css */
+
+body,
+img {
+  height: auto;
+  width: auto;
+}
+
+body {
+  color: white;
+  background-color: #272a49ff;
+}
+
+div,
+h1 {
+  text-align: center;
+}
+
+a {
+  color: #03aa95ff;
+}
+
+
